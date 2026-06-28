@@ -49,9 +49,8 @@ void gmv_seek(GmvPlayer* player, float time_in_seconds);
 
 #endif // GMV_PLAYER_H
 
-// ============================================================================
 // IMPLEMENTATION
-// ============================================================================
+
 #ifdef GMV_PLAYER_IMPLEMENTATION
 
 #include <stdio.h>
